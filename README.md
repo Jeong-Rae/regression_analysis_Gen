@@ -3,7 +3,7 @@ https://user-images.githubusercontent.com/102293576/174158253-ea9be0f2-6cd8-497c
 
 wx+b 와 입력된 데이터값의 차이를 제곱한 값을 오차로 계산하였다.  
 
-$$\displaystyle\sum_{i=0}^{\100}{(wx+b)-y)^2}$$    
+$$Err_tot = \displaystyle\sum_{i=0}^{100}{(wx+b)-y)^2}$$    
 
 
 ## 유전자 생성함수

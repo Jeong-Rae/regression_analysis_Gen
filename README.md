@@ -17,10 +17,10 @@ https://user-images.githubusercontent.com/102293576/174158255-b6a31fb4-c824-41f2
 https://user-images.githubusercontent.com/102293576/174158257-d8956b4f-2575-4f3b-bbc3-5ccb5993d46e.png  
   
 - 유전체 적합도측정
-유전체가 가지는 $Err$값의 역수를 이용한 $F=/frac{1}{Err}$을 적합도로 정한다.  즉 에러값이 작을 수록 적합도가 커지게 된다.
+유전체가 가지는 $Err$값의 역수를 이용한 $F=\frac{1}{Err}$을 적합도로 정한다.  즉 에러값이 작을 수록 적합도가 커지게 된다.
   
 - 가중치 선택
-가중치는 $/frac{F_{i}}{/sum{F}}$
+가중치는 $\frac{F_{i}}{\sum{F}}$
 
 - 100% 교차
 - 확률에 따른 변이 w,b 개별적인 확률
